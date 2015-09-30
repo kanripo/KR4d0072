@@ -1,8 +1,0 @@
-# -*- mode: mandoku-view -*-
-#+TITLE: 嘉祐集
-#+DATE: 2015-09-23 10:20:15
-#+PROPERTY: LASTPB  <pb:KR4d0072_SBCK_007-8b>
-#+PROPERTY: JUAN 16
-
-¶
-詩
